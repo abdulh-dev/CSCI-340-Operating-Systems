@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56caba1f59b42629",
+            "id": "0fbb68571456d459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dec1fa3689a68834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Note.md",
+                "file": "Topic 1 - Introduction/Aug-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Note.md",
+                "file": "Topic 1 - Introduction/Aug-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Note.md",
+                "file": "Topic 1 - Introduction/Aug-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Note.md"
+                "file": "Topic 1 - Introduction/Aug-29.md"
               }
             }
           }
@@ -159,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dec1fa3689a68834",
+  "active": "0fbb68571456d459",
   "lastOpenFiles": [
-    "First note.md",
+    "Syllabus.md",
+    "Topic 1 - Introduction/Aug-29.md",
+    "Topic 1 - Introduction/OS-in-system-image.png",
+    "Topic 1 - Introduction",
     "Second Note.md",
     "Notes"
   ]
