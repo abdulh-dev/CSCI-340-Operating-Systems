@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9c7c5d46e0abb054",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topic 1 - Introduction/Sept-9.md",
+                "file": "Topic 1 - Introduction/Sept-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topic 1 - Introduction/Sept-9.md",
+                "file": "Topic 1 - Introduction/Sept-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic 1 - Introduction/Sept-9.md"
+                "file": "Topic 1 - Introduction/Sept-5.md"
               }
             }
           }
@@ -160,15 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60c967d1c216fff4",
+  "active": "7f3db53d2516c0fb",
   "lastOpenFiles": [
+    "Topic 1 - Introduction/Sept-9.md",
     "Pasted image 20240909152540.png",
     "Pasted image 20240909152516.png",
     "Pasted image 20240909151224.png",
     "Pasted image 20240909150635.png",
     "Pasted image 20240909144555.png",
     "Topic 1 - Introduction/Sept-5.md",
-    "Topic 1 - Introduction/Sept-9.md",
     "Pasted image 20240909134238.png",
     "Topic 1 - Introduction/Aug-29.md",
     "Syllabus.md",
